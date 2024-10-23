@@ -2,38 +2,38 @@
 
 En este proyecto ocuparas de las siguientes librerias para lograr correr el codigo de la mejor manera.
 
-Flask
+Flask:
 pip install Flask
 
-Flask-SQLAlchemy
+Flask-SQLAlchemy:
 pip install Flask-SQLAlchemy
 
-Werkzeug
+Werkzeug:
 pip install Werkzeug
 
-Flask-Mail
+Flask-Mail:
 pip install Flask-Mail
 
-Pandas
+Pandas:
 pip install pandas
 
-Joblib
+Joblib:
 pip install joblib
 
-Flask-WTF
+Flask-WTF:
 pip install Flask-WTF
 
-SQLAlchemy
+SQLAlchemy:
 pip install SQLAlchemy
 
-Flask-Login
+Flask-Login:
 pip install Flask-Login
 
-Flask-Bcrypt
+Flask-Bcrypt:
 pip install Flask-Bcrypt
 
-Flask-Migrate
+Flask-Migrate:
 pip install Flask-Migrate
 
-scikit-learn
+scikit-learn:
 pip install scikit-learn
