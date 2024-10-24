@@ -549,14 +549,6 @@ def prediction_results():
     </div>
     ''', last_prediction=last_prediction, predictions=predictions, interpretar_prediccion=interpretar_prediccion)
 
-from fpdf import FPDF
-
-
-from flask import send_file
-from io import BytesIO
-from reportlab.lib.pagesizes import letter
-from reportlab.pdfgen import canvas
-
 @app.route('/download_pdf')
 def download_pdf():
     if 'user_id' not in session:
